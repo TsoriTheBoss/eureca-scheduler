@@ -1,0 +1,15 @@
+.Side-item {
+    background-color: rgba(90, 200, 90, 0.1);
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CentralItem {
+    background-color: rgba(90, 200, 90, 0.1);
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

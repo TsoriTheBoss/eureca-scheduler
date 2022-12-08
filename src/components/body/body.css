@@ -1,0 +1,7 @@
+.Body {
+    background-color: rgba(17, 17, 17, 0.025);
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
